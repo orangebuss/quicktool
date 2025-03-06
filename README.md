@@ -1,2 +1,2 @@
 # quicktool
-tools
+tools for simple use
